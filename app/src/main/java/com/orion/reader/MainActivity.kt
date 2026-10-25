@@ -1,4 +1,4 @@
-﻿package com.orion.reader
+package com.orion.reader
 
 import android.os.Bundle
 import android.webkit.WebView
